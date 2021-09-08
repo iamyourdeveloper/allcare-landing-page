@@ -629,12 +629,14 @@ footer hr {
         padding: 8px 16px;
         background-color: #662716;
         color: #fff;
+        letter-spacing: 1.5px;
         transition: .25s ease-in-out;
     }
     
     .n4 a:hover, .n4 li:hover {
-        background-color: #c55131;
-        border: 1px solid #c55131;
+        background-color: #fff;
+        border: 1.8px solid #662716;
+        color: #662716;
     }
 }
 
